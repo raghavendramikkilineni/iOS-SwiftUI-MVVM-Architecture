@@ -2,7 +2,7 @@
 
 Sample project uses MVVM Architecture. Application simply fetches the users list from the users end point provided using Alamofire framework. 
 
-Application mainly focused the MVVM architecture, not on the complexity. Generally, exposing the core concepts invovled with the latest SwiftUI and Combine framework.
+Application mainly focused the MVVM architecture. Generally, exposing the core concepts invovled with the latest SwiftUI and Combine framework.
 
 **Technologies Used:**
 
