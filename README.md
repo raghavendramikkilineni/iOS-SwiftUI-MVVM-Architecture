@@ -1,4 +1,4 @@
-# MVVM-Architecture
+# iOS SwiftUI + Combine, MVVM Architecture
 
 Sample project uses MVVM Architecture. Application simply fetches the users list from the users end point provided using Alamofire framework. 
 
